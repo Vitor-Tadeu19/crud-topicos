@@ -1,0 +1,32 @@
+# Build
+target/
+out/
+
+# IDEs
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+logs/
+tmp/
+
+# Maven/Wrapper
+.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/maven-wrapper.properties
+
+# Spring
+*.pid
+
+# Test reports
+surefire-reports/
